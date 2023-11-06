@@ -1,12 +1,4 @@
 @charset "UTF-8";
-body{ background-image: url(midia/redrog3.jpg);
-      background-repeat: no-repeat;
-
-    h1{
-        
-        font-family: Arial, Helvetica, sans-serif;
-    }
-    p{
-        font-family: Arial, Helvetica, sans-serif;
-    }
+body{
+    background-image: url(midia/redrog3.jpg);
 }
