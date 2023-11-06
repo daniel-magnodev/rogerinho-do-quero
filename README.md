@@ -1,2 +1,2 @@
 # rogerinho-do-quero
- Exemplo de site usando o grande Dj Rogerinho do Quero
+ Exemplo de site usando o grande Dj Rogerinho do Quero.
